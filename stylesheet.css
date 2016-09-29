@@ -11,8 +11,14 @@ body {
 table {
   border-color: white;
   border: 2px;
+  border-collapse: collapse;
 }
 th {
   background-color: white;
   padding: 2px 3px;
+}
+
+button {
+  background-color: #FFFFFF;
+  margin: auto;
 }
